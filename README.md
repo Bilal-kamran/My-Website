@@ -50,6 +50,6 @@ Open the index.html file in your preferred web browser to view the website. You 
 Contributions are welcome! If you have any suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the GPLv3 License. See the LICENSE file for more information.
 
 Thank you for visiting my repository. I am excited to continue developing this website and sharing my journey in web development.
