@@ -1,0 +1,53 @@
+Name: Denim
+Hex: #105DCD
+RGB: (16, 93, 205)
+CMYK: (92, 55, 0, 20)
+HSV: 216° 92% 80%
+HSL: 216° 86% 43%
+RAL: 5015
+Pantone: 2175 C
+
+Name: Raisin Black
+Hex: #242424
+RGB: (36, 36, 36)
+CMYK: (0, 0, 0, 86)
+HSV: 359° 0% 14%
+HSL: 0° 0% 14%
+RAL: 9011
+Pantone: Neutral Black C
+
+Name: Davy's Grey
+Hex: #545454
+RGB: (84, 84, 84)
+CMYK: (0, 0, 0, 67)
+HSV: 359° 0% 33%
+HSL: 0° 0% 33%
+RAL: 7015
+Pantone: Cool Gray 11 C
+
+Name: Silver Foil
+Hex: #AEAFB1
+RGB: (174, 175, 177)
+CMYK: (2, 1, 0, 31)
+HSV: 220° 2% 69%
+HSL: 220° 2% 69%
+RAL: 7038
+Pantone: Cool Gray 5 C
+
+Name: Cinereous
+Hex: #A09179
+RGB: (160, 145, 121)
+CMYK: (0, 9, 24, 37)
+HSV: 37° 24% 63%
+HSL: 37° 17% 55%
+RAL: 1019
+Pantone: 7530 C
+
+Name: Dark Puce
+Hex: #523D3D
+RGB: (82, 61, 61)
+CMYK: (0, 26, 26, 68)
+HSV: 0° 26% 32%
+HSL: 0° 15% 28%
+RAL: 6014
+Pantone: 7617 C
